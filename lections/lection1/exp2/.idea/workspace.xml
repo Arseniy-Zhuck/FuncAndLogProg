@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4720e9-4fe5-416d-842c-942681c95b0a" name="Default Changelist" comment="" />
+    <list default="true" id="d9310966-ab09-474a-8b9a-4cc9f1ae39a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +41,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1qA1YK2R9tE4Jc4kP14h0VvEwXK" />
+  <component name="ProjectId" id="1qBuFYK83YQMJqsufdtMA8gXYmo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -52,14 +52,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="exp1" />
+      <module name="exp2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -82,11 +78,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec4720e9-4fe5-416d-842c-942681c95b0a" name="Default Changelist" comment="" />
-      <created>1616507626213</created>
+      <changelist id="d9310966-ab09-474a-8b9a-4cc9f1ae39a7" name="Default Changelist" comment="" />
+      <created>1616565200585</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616507626213</updated>
+      <updated>1616565200585</updated>
     </task>
     <servers />
   </component>
@@ -100,40 +96,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="716" y="289" width="430" height="508" key="FileChooserDialogImpl" timestamp="1616565198735">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state x="716" y="289" width="430" height="508" key="FileChooserDialogImpl/0.0.1920.1047@0.0.1920.1047" timestamp="1616565198735" />
-    <state width="676" height="255" key="GridCell.Tab.0.bottom" timestamp="1616515501710">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="676" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1616515501710" />
-    <state width="676" height="255" key="GridCell.Tab.0.center" timestamp="1616515501704">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="676" height="255" key="GridCell.Tab.0.center/0.0.1920.1047@0.0.1920.1047" timestamp="1616515501704" />
-    <state width="676" height="255" key="GridCell.Tab.0.left" timestamp="1616515501703">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="676" height="255" key="GridCell.Tab.0.left/0.0.1920.1047@0.0.1920.1047" timestamp="1616515501703" />
-    <state width="676" height="255" key="GridCell.Tab.0.right" timestamp="1616515501704">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state width="676" height="255" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1616515501704" />
-    <state x="519" y="285" width="830" height="521" key="IDE.errors.dialog" timestamp="1616507685143">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state x="519" y="285" width="830" height="521" key="IDE.errors.dialog/0.0.1920.1047@0.0.1920.1047" timestamp="1616507685143" />
-    <state x="440" y="182" width="1030" height="842" key="SettingsEditor" timestamp="1616515625537">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state x="440" y="182" width="1030" height="842" key="SettingsEditor/0.0.1920.1047@0.0.1920.1047" timestamp="1616515625537" />
-    <state x="352" y="170" width="1163" height="750" key="new project wizard" timestamp="1616565200303">
-      <screen x="0" y="0" width="1920" height="1047" />
-    </state>
-    <state x="352" y="170" width="1163" height="750" key="new project wizard/0.0.1920.1047@0.0.1920.1047" timestamp="1616565200303" />
   </component>
 </project>
