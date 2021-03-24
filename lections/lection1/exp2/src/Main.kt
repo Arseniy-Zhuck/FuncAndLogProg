@@ -28,10 +28,34 @@ fun varAndValDeclaration() : Unit {
 
 }
 
+class Person(val name : String, var age : Int) {
+    val canBeServed : Boolean
+    get () {
+        return age > 18
+    }
+
+    var mobile : String
+    get () {
+       return mobile
+    }
+    set (str : String) {
+        mobile = if (isMobile(str)) makeMobile(str) else ""
+    }
+
+    fun isMobile(str : String) : Boolean = true
+    fun makeMobile(str : String) : String = str
+}
+
 fun main() {
+
+    val vasya = Person("Vasya", 25)
+    vasya.age += 1 // ВЫЗОВ СЕТТЕРА И ГЕТТЕРА
+    vasya.name = "Petya" // попытка вызвать сеттер, но он отсутствует
+
     println(maxBodyNorm(5,3))
     println(maxBodyExp(5,3))
     println(maxBodyExpShort(5,3))
     println(maxExp(5, 3))
     println(maxExpTypeInference(5, 3))
+
 }
