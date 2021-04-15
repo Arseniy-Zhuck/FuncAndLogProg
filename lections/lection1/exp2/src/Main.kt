@@ -1,5 +1,5 @@
 fun maxBodyNorm(a: Int, b: Int) : Int {
-    var max = a
+    var max : Int
     if (a > b) max = a else max = b
     return max
 }
@@ -24,7 +24,7 @@ fun varAndValDeclaration() : Unit {
     val yearsToCompute = 7.5e6 // Double
     val anotherQuestion : String
     anotherQuestion = "So, what's the question?"
-    question = "mmmmm" + yearsToCompute + "years to compute"
+    //question = "mmmmm" + yearsToCompute + "years to compute"
 
 }
 
@@ -50,8 +50,8 @@ fun main() {
 
     val vasya = Person("Vasya", 25)
     vasya.age += 1 // ВЫЗОВ СЕТТЕРА И ГЕТТЕРА
-    vasya.name = "Petya" // попытка вызвать сеттер, но он отсутствует
-
+    //vasya.name = "Petya" // попытка вызвать сеттер, но он отсутствует
+    println(vasya.canBeServed)
     println(maxBodyNorm(5,3))
     println(maxBodyExp(5,3))
     println(maxBodyExpShort(5,3))

@@ -55,7 +55,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -103,37 +103,42 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="716" y="289" width="430" height="508" key="FileChooserDialogImpl" timestamp="1616565198735">
+    <state x="716" y="289" width="430" height="508" key="FileChooserDialogImpl" timestamp="1617202269389">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
-    <state x="716" y="289" width="430" height="508" key="FileChooserDialogImpl/0.0.1920.1047@0.0.1920.1047" timestamp="1616565198735" />
-    <state width="676" height="255" key="GridCell.Tab.0.bottom" timestamp="1616515501710">
+    <state x="716" y="289" width="430" height="508" key="FileChooserDialogImpl/0.0.1920.1047@0.0.1920.1047" timestamp="1617202269389" />
+    <state width="922" height="174" key="GridCell.Tab.0.bottom" timestamp="1616743908611">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
+    <state width="922" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1047/0.0.1024.768@0.0.1920.1047" timestamp="1616743908611" />
     <state width="676" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1616515501710" />
-    <state width="676" height="255" key="GridCell.Tab.0.center" timestamp="1616515501704">
+    <state width="922" height="174" key="GridCell.Tab.0.center" timestamp="1616743908611">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
+    <state width="922" height="174" key="GridCell.Tab.0.center/0.0.1920.1047/0.0.1024.768@0.0.1920.1047" timestamp="1616743908610" />
     <state width="676" height="255" key="GridCell.Tab.0.center/0.0.1920.1047@0.0.1920.1047" timestamp="1616515501704" />
-    <state width="676" height="255" key="GridCell.Tab.0.left" timestamp="1616515501703">
+    <state width="922" height="174" key="GridCell.Tab.0.left" timestamp="1616743908609">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
+    <state width="922" height="174" key="GridCell.Tab.0.left/0.0.1920.1047/0.0.1024.768@0.0.1920.1047" timestamp="1616743908609" />
     <state width="676" height="255" key="GridCell.Tab.0.left/0.0.1920.1047@0.0.1920.1047" timestamp="1616515501703" />
-    <state width="676" height="255" key="GridCell.Tab.0.right" timestamp="1616515501704">
+    <state width="922" height="174" key="GridCell.Tab.0.right" timestamp="1616743908611">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
+    <state width="922" height="174" key="GridCell.Tab.0.right/0.0.1920.1047/0.0.1024.768@0.0.1920.1047" timestamp="1616743908611" />
     <state width="676" height="255" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1616515501704" />
     <state x="519" y="285" width="830" height="521" key="IDE.errors.dialog" timestamp="1616507685143">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state x="519" y="285" width="830" height="521" key="IDE.errors.dialog/0.0.1920.1047@0.0.1920.1047" timestamp="1616507685143" />
-    <state x="440" y="182" width="1030" height="842" key="SettingsEditor" timestamp="1616515625537">
+    <state x="440" y="182" width="1030" height="842" key="SettingsEditor" timestamp="1616742561641">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
+    <state x="440" y="182" width="1030" height="842" key="SettingsEditor/0.0.1920.1047/0.0.1024.768@0.0.1920.1047" timestamp="1616742561641" />
     <state x="440" y="182" width="1030" height="842" key="SettingsEditor/0.0.1920.1047@0.0.1920.1047" timestamp="1616515625537" />
-    <state x="352" y="170" width="1163" height="750" key="new project wizard" timestamp="1616565200303">
+    <state x="352" y="170" width="1163" height="750" key="new project wizard" timestamp="1617202273038">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
-    <state x="352" y="170" width="1163" height="750" key="new project wizard/0.0.1920.1047@0.0.1920.1047" timestamp="1616565200303" />
+    <state x="352" y="170" width="1163" height="750" key="new project wizard/0.0.1920.1047@0.0.1920.1047" timestamp="1617202273038" />
   </component>
 </project>
